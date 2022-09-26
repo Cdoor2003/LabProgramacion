@@ -1,1 +1,1 @@
-Lab Programación
+Laboratorio Programación
